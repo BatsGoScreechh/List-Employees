@@ -1,0 +1,11 @@
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\bin\Debug\netcoreapp2.2\list-employees.deps.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\bin\Debug\netcoreapp2.2\list-employees.runtimeconfig.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\bin\Debug\netcoreapp2.2\list-employees.runtimeconfig.dev.json
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\bin\Debug\netcoreapp2.2\list-employees.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\bin\Debug\netcoreapp2.2\list-employees.pdb
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.csprojAssemblyReference.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.csproj.CoreCompileInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.AssemblyInfoInputs.cache
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.AssemblyInfo.cs
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.dll
+C:\Users\Newforce\workspace\csharp\book1\chapter-9\list-employees\obj\Debug\netcoreapp2.2\list-employees.pdb
